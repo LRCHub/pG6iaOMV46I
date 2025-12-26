@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Kitsch",
+  "base_artist": "IVE",
+  "createdAt": "2025-12-26T13:07:42.958760Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Morning Britain (Kitsch 'n' Sync Mix)",
+      "artist": "Aztec Camera",
+      "has_synced": false,
+      "path": "select/01_Good_Morning_Britain_(Kitsch_'n'_Sync_Mix)_Aztec_Camera.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kitsch",
+      "artist": "Barry Ryan",
+      "has_synced": false,
+      "path": "select/02_Kitsch_Barry_Ryan.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kitsch",
+      "artist": "Barry Ryan",
+      "has_synced": true,
+      "path": "select/03_Kitsch_Barry_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kitsch",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/04_Kitsch_IVE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kitsch",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/05_Kitsch_IVE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kitsch",
+      "artist": "IVE (아이브)",
+      "has_synced": true,
+      "path": "select/06_Kitsch_IVE_(아이브).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Porn, Kitsch And Firearms",
+      "artist": "SKOLD vs. KMFDM",
+      "has_synced": true,
+      "path": "select/07_Porn,_Kitsch_And_Firearms_SKOLD_vs._KMFDM.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Porn, Kitsch & Firearms",
+      "artist": "Skold Vs. KMFDM",
+      "has_synced": true,
+      "path": "select/08_Porn,_Kitsch_&_Firearms_Skold_Vs._KMFDM.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Porn, Kitsch And Firearms",
+      "artist": "SKOLD",
+      "has_synced": true,
+      "path": "select/09_Porn,_Kitsch_And_Firearms_SKOLD.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kitsch",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/10_Kitsch_IVE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Jesus Kitsch",
+      "artist": "Dalida",
+      "has_synced": true,
+      "path": "select/11_Jesus_Kitsch_Dalida.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kitsch",
+      "artist": "Ulf Lundell",
+      "has_synced": false,
+      "path": "select/12_Kitsch_Ulf_Lundell.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kitsch",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/13_Kitsch_IVE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kitsch",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/14_Kitsch_IVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kitsch",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_Kitsch_IVE.txt"
+    }
+  ]
+}
